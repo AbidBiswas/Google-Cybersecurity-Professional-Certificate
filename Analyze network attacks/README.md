@@ -2,7 +2,7 @@
 
 ### Activity Overview
 
-I read the following scenario and access the [support materials](https://github.com/kevin-tran-tech/Google-Cybersecurity/blob/main/Analyze%20network%20attacks/How%20to%20read%20a%20Wireshark%20TCP_HTTP%20log.pdf) to complete the [cybersecurity incident report](https://github.com/kevin-tran-tech/Google-Cybersecurity/blob/main/Analyze%20network%20attacks/Cybersecurity%20incident%20report.pdf). 
+I read the following scenario and access the [support materials](https://github.com/AbidBiswas/Google-Cybersecurity-Professional-Certificate/blob/main/Analyze%20network%20attacks/How%20to%20read%20a%20Wireshark%20TCP_HTTP%20log.pdf) to complete the [cybersecurity incident report](https://github.com/AbidBiswas/Google-Cybersecurity-Professional-Certificate/blob/main/Analyze%20network%20attacks/Cybersecurity%20incident%20report.pdf). 
 
 By completing this activity, I was able to enchance my understanding of network security by identifying a type of network attack I have discovered and describe how it was affecting the web server and employees.
 
