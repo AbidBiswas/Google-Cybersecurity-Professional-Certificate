@@ -2,11 +2,11 @@
 
 ### Activity Overview
 
-In this activity, I demonstrated my experience using Linux commands to manage file permissions. I reviewed the following scenario below and used access supporting materials to help complete my [report](https://github.com/kevin-tran-tech/Google-Cybersecurity/blob/main/Use%20Linux%20commands%20to%20manage%20file%20permissions/File%20permissions%20in%20Linux.pdf).
+In this activity, I demonstrated my experience using Linux commands to manage file permissions. I reviewed the following scenario below and used access supporting materials to help complete my [report](https://github.com/AbidBiswas/Google-Cybersecurity-Professional-Certificate/blob/main/Use%20Linux%20commands%20to%20manage%20file%20permissions/File%20permissions%20in%20Linux.pdf).
 
 ### Access Supporting Materials
-- [Instructions for including Linux commands](https://github.com/kevin-tran-tech/Google-Cybersecurity/blob/main/Use%20Linux%20commands%20to%20manage%20file%20permissions/Instructions%20for%20including%20Linux%20commands.pdf)
-- [Current file permissions](https://github.com/kevin-tran-tech/Google-Cybersecurity/blob/main/Use%20Linux%20commands%20to%20manage%20file%20permissions/Current%20file%20permissions.pdf)
+- [Instructions for including Linux commands](https://github.com/AbidBiswas/Google-Cybersecurity-Professional-Certificate/blob/main/Use%20Linux%20commands%20to%20manage%20file%20permissions/Instructions%20for%20including%20Linux%20commands.pdf)
+- [Current file permissions](https://github.com/AbidBiswas/Google-Cybersecurity-Professional-Certificate/blob/main/Use%20Linux%20commands%20to%20manage%20file%20permissions/Current%20file%20permissions.pdf)
 
 ### Scenario
 
