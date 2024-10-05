@@ -1,6 +1,7 @@
 ## Google Cybersecurity - Portfolios
 
-<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~2LH1INNISPX8/CERTIFICATE_LANDING_PAGE~2LH1INNISPX8.jpeg" alt="Certificate">
+![image](https://github.com/user-attachments/assets/9850a935-8215-4c92-ad24-759161bf308c)
+
 
 ## Overview
 
