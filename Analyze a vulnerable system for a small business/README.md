@@ -2,11 +2,11 @@
 
 ### Activity Overview
 
-In this activity, I conducted vulnerability assessment for a small business. I evaluate the risks of a vulnerable information system and outline a remediation plan. By reviewing the following scenario and the supporting material(s), I was able to fill out the [Vulnerability assessment report](https://github.com/kevin-tran-tech/Google-Cybersecurity/blob/main/Analyze%20a%20vulnerable%20system%20for%20a%20small%20business/Vulnerability%20assessment%20report.pdf)
+In this activity, I conducted vulnerability assessment for a small business. I evaluate the risks of a vulnerable information system and outline a remediation plan. By reviewing the following scenario and the supporting material(s), I was able to fill out the [Vulnerability assessment report](https://github.com/AbidBiswas/Google-Cybersecurity-Professional-Certificate/blob/main/Analyze%20a%20vulnerable%20system%20for%20a%20small%20business/Vulnerability%20assessment%20report.pdf)
 
 ### Supporting Materials
 
-- [NIST SP 800-30 Rev. 1](https://github.com/kevin-tran-tech/Google-Cybersecurity/blob/main/Analyze%20a%20vulnerable%20system%20for%20a%20small%20business/NIST%20SP%20800-30%20Rev.%201.pdf)
+- [NIST SP 800-30 Rev. 1](https://github.com/AbidBiswas/Google-Cybersecurity-Professional-Certificate/blob/main/Analyze%20a%20vulnerable%20system%20for%20a%20small%20business/NIST%20SP%20800-30%20Rev.%201.pdf)
 
 ### Scenario
 
